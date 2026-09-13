@@ -1,3 +1,4 @@
+<!-- 
 <div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+%40+UniMi;Exploring+AI+Solutions;Python+%26+Data+Science&center=true&width=400&height=50&color=f75c7e&vCenter=true&size=22" />
